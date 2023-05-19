@@ -10,4 +10,12 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.spacecraft{
+    transform: rotate(-180deg);
+    height: 90px;
+    width: 90px;
 }
